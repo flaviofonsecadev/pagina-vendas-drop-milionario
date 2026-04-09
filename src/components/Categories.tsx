@@ -1,7 +1,6 @@
 
-import React from 'react';
 import { motion } from 'framer-motion';
-import { Shirt, Watch, ScanEye, Glasses } from 'lucide-react';
+import { Shirt, Watch, ScanEye } from 'lucide-react';
 
 const categories = [
   {
