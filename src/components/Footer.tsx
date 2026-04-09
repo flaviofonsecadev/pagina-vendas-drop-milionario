@@ -1,5 +1,5 @@
 "use client";
-import { Crown, Mail, MapPin, Phone } from 'lucide-react';
+import { Crown, Mail, Phone } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -56,10 +56,6 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-bold text-lg mb-6">Contato</h4>
             <ul className="space-y-4">
-              <li className="flex items-start gap-3">
-                <MapPin className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
-                <span>Rua do Comércio, 1000<br/>São Paulo - SP</span>
-              </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-amber-400 shrink-0" />
                 <span>(11) 99999-9999</span>
