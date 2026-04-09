@@ -4,7 +4,7 @@ import { ArrowRight, CheckCircle2 } from 'lucide-react';
 
 export default function Hero() {
   return (
-    <section className="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden bg-black text-white">
+    <section className="relative pt-24 pb-20 lg:pt-32 lg:pb-32 overflow-hidden bg-black text-white">
       {/* Background pattern */}
       <div className="absolute inset-0 bg-[url(https://images.unsplash.com/photo-1594938298596-10fe5d63503b?q=80&w=2940&auto=format&fit=crop)] bg-cover bg-center opacity-30 mix-blend-luminosity"></div>
       <div className="absolute inset-0 bg-gradient-to-t from-black via-black/80 to-black/40"></div>
