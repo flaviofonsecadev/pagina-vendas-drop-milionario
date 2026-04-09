@@ -1,5 +1,4 @@
 "use client";
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Store, ShoppingCart, DollarSign, Send } from 'lucide-react';
 

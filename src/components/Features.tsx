@@ -1,5 +1,4 @@
 "use client";
-import React from 'react';
 import { PackageX, Zap, Layers, Truck } from 'lucide-react';
 import { motion } from 'framer-motion';
 
