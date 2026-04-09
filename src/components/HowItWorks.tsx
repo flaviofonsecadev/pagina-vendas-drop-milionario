@@ -6,7 +6,7 @@ const steps = [
   {
     icon: <Store className="w-6 h-6" />,
     title: 'Sua Loja',
-    description: 'Você cria sua loja virtual e anuncia nossos produtos com sua própria margem de lucro.',
+    description: 'Nós entregamos sua loja virtual pronta para vender. Você só precisa anunciar e definir sua margem de lucro.',
   },
   {
     icon: <ShoppingCart className="w-6 h-6" />,
