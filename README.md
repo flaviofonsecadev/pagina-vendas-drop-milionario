@@ -14,14 +14,6 @@ Este projeto foi construído com as melhores tecnologias modernas de frontend pa
 - **React Router Dom** (Para futuras expansões de rotas, se necessário)
 - **TypeScript** (Tipagem segura e IntelliSense)
 
-## 🤖 Integração com Agentes (Trae AI)
-
-A branch `master` deste repositório preserva as configurações e as memórias do agente conversacional e assistente de código **Trae AI**.
-
-- **`.trae/`**: Contém documentos de especificação de produto (PRD) e arquitetura técnica (`prd.md` e `tech-architecture.md`) gerados automaticamente durante a concepção da interface.
-- **`AGENTS.md` / `CLAUDE.md`**: Arquivos de instrução e contexto utilizados pelo agente durante o desenvolvimento assistido.
-
-Se você está rodando o projeto em produção ou não utiliza o Trae AI, recomenda-se usar a branch `prod`, que possui apenas o código essencial da aplicação (clean branch).
 
 ## 📦 Como rodar o projeto localmente
 
